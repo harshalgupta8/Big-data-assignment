@@ -1,5 +1,4 @@
-### Assignment 1 
-** Big Data ** 
+### Assignment 1 **Big Data** 
 _Submitted by_  
 Harshal Gupta
 
